@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 
 
-public class Multiplication Table {
+public class MultiplicationTable {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
